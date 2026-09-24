@@ -2,7 +2,7 @@
 
 Analyse statistique du rôle des investissements directs étrangers (IDE) dans la croissance économique en Afrique, sur 47 pays (2000-2024), en distinguant les IDE extractifs et non extractifs.
 
-\## Problématique
+\## Problématique 
 
 Pourquoi certains pays africains attirent beaucoup d'IDE sans en tirer une croissance équivalente ? Ce projet montre que la \*\*structure sectorielle\*\* des IDE explique davantage la croissance que leur volume.
 
